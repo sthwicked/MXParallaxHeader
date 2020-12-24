@@ -20,7 +20,6 @@ let package = Package(
     .target(
       name: "MXParallaxHeader",
       path: "Sources",
-      exclude: ["Example"],
       publicHeadersPath: "."
     )
   ],
