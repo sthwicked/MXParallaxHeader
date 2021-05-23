@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "MXScrollView.h"
+#import "Public/MXScrollView.h"
 
 @interface MXScrollViewDelegateForwarder : NSObject <MXScrollViewDelegate>
 @property (nonatomic,weak) id<MXScrollViewDelegate> delegate;

@@ -20,8 +20,7 @@ let package = Package(
     .target(
       name: "MXParallaxHeader",
       path: "Sources",
-      publicHeadersPath: "."
+      publicHeadersPath: "Public"
     )
-  ],
-  cLanguageStandard: .c11
+  ]
 )

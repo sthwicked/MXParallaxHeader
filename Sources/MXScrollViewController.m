@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import <objc/runtime.h>
-#import "MXScrollViewController.h"
+#import "Public/MXScrollViewController.h"
 
 @interface MXScrollViewController ()
 @property (nonatomic, weak) IBOutlet UIView *headerView;

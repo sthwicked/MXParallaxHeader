@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import <objc/runtime.h>
-#import "MXParallaxHeader.h"
+#import "Public/MXParallaxHeaderType.h"
 
 @interface MXParallaxView : UIView
 @property (nonatomic,weak) MXParallaxHeader *parent;
